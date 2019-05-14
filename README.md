@@ -6,3 +6,6 @@ Jupyter Notebook code for plots, tables and exercises in _Introduction to Statis
  * Chapter 3 - Linear Regression
     * Simple Linear Regression
     * Multiple Linear Regression
+ * Chapter 4
+    * Logistic Regression
+    * K Nearest Neighbors
